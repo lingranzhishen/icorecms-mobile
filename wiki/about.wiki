@@ -2,11 +2,11 @@
 
 = Install =
 
-1) Upload .zip file.
-2) Unpack it.
-3) Go to: http://yoursite.com/install.php
-4) Fill all poles
-5) Delete install.php
+  * Upload .zip file.
+  * Unpack it.
+  * Go to: http://yoursite.com/install.php
+  * Fill all poles
+  * Delete install.php
 
 
 = Modules =
