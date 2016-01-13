@@ -1,0 +1,21 @@
+#About iCoreCMS Mobile.
+
+# Install #
+
+  * Upload .zip file.
+  * Unpack it.
+  * Go to: http://yoursite.com/install.php
+  * Fill all poles
+  * Delete install.php
+
+
+# Modules #
+
+**iCoreCMS Modules:**
+  * News
+  * Reg/Auth
+  * GuestBook
+  * Forum
+  * Download center
+  * Office
+  * And other
